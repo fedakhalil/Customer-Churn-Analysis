@@ -1,2 +1,3 @@
 # Customer-Churn-Analysis
-Using Machine Learning model to predict customers who are about to leave the company or not.
+
+In this repository we used Gradient Boosting Classifier algorithm to predict customers who churn.
